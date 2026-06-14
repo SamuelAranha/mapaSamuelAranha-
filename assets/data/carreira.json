@@ -1,0 +1,160 @@
+{
+"seo": {
+"title": "Samuel Aranha | Mapa de Carreira em Tecnologia",
+"description": "Mapa de carreira de Samuel Aranha, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+"author": "Samuel Aranha"
+},
+
+"profile": {
+"name": "Samuel Martins Aranha",
+"headline": "Desenvolvimento Web, Modelagem de Dados e Soluções Digitais",
+"photo": "assets/images/fotosamuel.jpeg",
+"photoAlt": "Foto profissional de Samuel Martins Aranha",
+"summary": "Estudante de Análise e Desenvolvimento de Sistemas pela Fatec de Ferraz de Vasconcelos, com formação complementar pelo Instituto PROA. Possuo conhecimentos em HTML, CSS, JavaScript, React.js, Python, Figma e Canva. Busco desenvolver minha carreira na área de Desenvolvimento Web, aplicando meus conhecimentos em projetos e adquirindo experiência profissional.",
+"cvUrl": "assets/Currículo - Samuel M. Aranha.docx"
+},
+
+"contacts": [
+{
+"label": "samuelaranha6@gmail.com",
+"url": "samuelaranha6@gmail.com"
+},
+{
+"label": "https://www.linkedin.com/in/samuelaranha2935/",
+"url": "https://www.linkedin.com/in/samuelaranha2935/"
+},
+{
+"label": "https://github.com/SamuelAranha",
+"url": "https://github.com/SamuelAranha"
+}
+],
+"careerSteps": [
+{
+"title": "Estagiário de Desenvolvimento Web",
+"description": "Consolidar fundamentos de desenvolvimento web, banco de dados, versionamento e desenvolvimento de aplicações Front-end e Back-end, participando de projetos reais e aprendendo boas práticas de mercado.",
+"softSkills": [
+"Comunicação clara para trabalhar em equipe",
+"Organização para gerenciar estudos e tarefas",
+"Proatividade para aprender novas tecnologias",
+"Curiosidade para solucionar problemas"
+],
+"roadmap": [
+"HTML Semântico",
+"CSS Responsivo",
+"JavaScript",
+"Git e GitHub",
+"Acessibilidade",
+"React.js",
+"SQL Básico",
+"APIs REST"
+]
+},
+{
+"title": "Desenvolvedor Web Júnior",
+"description": "Desenvolver funcionalidades com autonomia, participar de decisões técnicas simples e contribuir ativamente para a evolução dos sistemas.",
+"softSkills": [
+"Trabalho em equipe",
+"Pensamento analítico",
+"Gestão de tempo",
+"Adaptabilidade"
+],
+"roadmap": [
+"React.js Avançado",
+"Node.js",
+"Spring Boot",
+"Banco de Dados",
+"Testes"
+
+]
+},
+{
+"title": "Desenvolvedor Web Pleno",
+"description": "Atuar com autonomia técnica, liderar pequenas iniciativas, propor melhorias e contribuir para a arquitetura e qualidade dos sistemas.",
+"softSkills": [
+"Liderança técnica",
+"Resolução de problemas complexos",
+"Comunicação com áreas de negócio",
+"Mentoria de profissionais iniciantes"
+],
+"roadmap": [
+"Arquitetura de Software",
+"Clean Code",
+"Cloud (AWS)",
+"Testes Automatizados",
+"Microsserviços"
+]
+}
+],
+
+"skillGroups": [
+{
+"title": "Frontend",
+"skills": [
+{
+"name": "HTML, CSS e JavaScript",
+"level": 85
+},
+{
+"name": "React.js",
+"level": 35
+}
+]
+},
+{
+"title": "Backend",
+"skills": [
+{
+"name": "Python",
+"level": 40
+}
+]
+},
+{
+"title": "Banco de Dados",
+"skills": [
+{
+"name": "Modelagem de Dados",
+"level": 50
+},
+{
+"name": "SQL",
+"level": 65
+}
+]
+},
+{
+"title": "UI/UX",
+"skills": [
+{
+"name": "Figma",
+"level": 60
+},
+{
+"name": "Canva",
+"level": 40
+}
+]
+}
+],
+
+"otherSkills": [
+"Git e GitHub",
+"Comunicação",
+"Documentação",
+"Trabalho em Equipe",
+"Resolução de Problemas"
+
+],
+
+"languages": [
+{
+"name": "Português",
+"level": "Nativo"
+},
+{
+"name": "Inglês",
+"level": "Básico"
+}
+]
+}
+
